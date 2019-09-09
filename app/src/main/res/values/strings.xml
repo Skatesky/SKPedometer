@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">计步器</string>
+    <string name="home_history_text">查看历史步数</string>
+    <string name="home_plan_text">设置锻炼计划</string>
+    <string name="home_support_text">该设备支持计步</string>
+    <string name="history_title">历史记录</string>
+    <string name="plan_step_title">每日锻炼步数</string>
+    <string name="plan_title">锻炼计划</string>
+    <string name="plan_remind_time">提醒时间</string>
+    <string name="plan_remind">提醒</string>
+</resources>
